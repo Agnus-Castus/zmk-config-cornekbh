@@ -1,6 +1,5 @@
-
-# My shops https://keyboard-hoarders.com // https://keyboardhoarders.etsy.com
-# Now change the keymap using ZMK.studio 
+# My Settings
+## Now change the keymap using ZMK.studio 
 1. Go to zmk.studio
 2. plug in left half of the keyboard via USB to computer
 3. select USB once at zmk.studio
@@ -9,17 +8,13 @@
 
 ![il_fullxfull 6886024620_quu0 jpg](https://github.com/user-attachments/assets/8c71c6dc-2ea5-4970-923f-6727532cd4f8)
 
-
 Want an easy way to customize the keymap?  I have a guide [https://www.keyboardhoarders.com/post/1288093071901/zmk-change-keymap-walkthrough](https://keyboard-hoarders.com/pages/guides-1)
 
 <img width="900" height="1709" alt="my_keymap-3" src="https://github.com/user-attachments/assets/e7869ef1-371d-4beb-997a-2e57da00d3d9" />
 
 #   Combo diagram.
 
-
 <img width="915" height="2294" alt="combos" src="https://github.com/user-attachments/assets/0c39e4ee-ecda-4e94-934f-a7b5405323d7" />
-
-
 
 How to switch bluetooth devices.
 
